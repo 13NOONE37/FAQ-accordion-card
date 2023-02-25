@@ -8,4 +8,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://13noone37.github.io/QR-code-component/
+- Solution URL: https://13noone37.github.io/FAQ-accordion-card/
